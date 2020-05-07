@@ -1,25 +1,25 @@
 # Red Hat Marketing Icon Library
 The Red Hat Marketing Icon Library provides Red Hat marketing icons from the Brand team in a [Sketch](https://www.sketchapp.com/) library. It makes it easier for Sketch users to browse and use the marketing icons in their designs.
 
-###The icon library includes:
+### The icon library includes:
 
 * Sketch symbols for all of the latest marketing icons.
 * Harveyball loading icons 0-100 percentage.
 * Social media icons
 
-##Downloading the Library
+## Downloading the Library
 * Browse to the [Sketch cloud library page](https://www.sketch.com/s/bf415b2d-f138-445a-aa94-3f6ec20d3857)
 * Click on the *Add library to Sketch* button ![Add library button](images/Sketch--add-library-button.png)
 
 ## Updating the library when new changes are available
 Sketch will automatically receive library updates in the top, right corner of an open Sketch file. You'll want to update the Marketing Icon library **and** update the symbols within your file (two separate notifications). You'll have to update **all** files that are using the icon symbols - it is not a one and done process, unfortunately.
 
-Please check out our [announcements](https://github.com/patternfly/patternfly-design-kit/blob/master/Announcements.md) for specific design kit release updates!
+Please check out our [announcements](hhttps://github.com/rh-uxd/marketing-icons/blob/master/Announcements.md) for specific design kit release updates!
 
-##Using the Library
+## Using the Library
 Please review the [brand guidelines](https://docs.google.com/presentation/d/1hWN_blHI16nvj8ZoOF9E34d40rgpjeiWjNgZ4TB8JzY/edit) for icons. For more information about the brand assets and guidelines, visit the [Brand Mojo page](https://mojo.redhat.com/groups/brand-communities).
 
-###Colors:
+### Colors:
 * Please use monochromatic colors for social media icons to comply with brand guidelines for those companies. Full color icons may be used in certain cases but monochromatic is the safe way to go.
 * Four colors are available for marketing notifications.
   * Red Hat red
