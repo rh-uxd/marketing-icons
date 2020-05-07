@@ -13,6 +13,7 @@ The Red Hat Marketing Icon Library provides Red Hat marketing icons from the Bra
 
 ## Updating the library when new changes are available
 Sketch will automatically receive library updates in the top, right corner of an open Sketch file. You'll want to update the Marketing Icon library **and** update the symbols within your file (two separate notifications). You'll have to update **all** files that are using the icon symbols - it is not a one and done process, unfortunately.
+![Add library button](images/Sketch--library-updates.png)
 
 Please check out our [announcements](hhttps://github.com/rh-uxd/marketing-icons/blob/master/Announcements.md) for specific design kit release updates!
 
